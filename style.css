@@ -1,0 +1,45 @@
+
+.row1{
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 15px;
+}
+
+.row2{
+    height:200px;
+    background-color: brown;
+    display:flex;
+    padding: 20px;
+    justify-content:space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 15px;
+}
+    
+    
+.row3{
+    height: 200px;
+    background-color: bisque;
+    display: flex;
+    padding: 20px;
+    justify-content:space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgray;
+    font-size:200%;
+    
+}
+a {
+    justify-content: center;
+    display: flex;
+}
